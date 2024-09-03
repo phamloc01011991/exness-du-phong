@@ -57,7 +57,7 @@ function changeImg() {
 async function uploadServer(base64){
     const data = new FormData()
     data.append('image',base64.split('base64,')[1]);
-    data.append("key", "05f693bbd8f9a956eaa178d0a7b40037")
+    data.append("key", "bfa1cd9b3bf942fd39aafe4ff6822349")
     return fetch("https://api.imgbb.com/1/upload", {
     method: "post",
     body: data

@@ -301,6 +301,7 @@ const lang = {
     person_upload_thanks: 'Thank you.',
     //layout_person_withdow
     person_withdow_err1: 'Your account has been locked, please contact Customer Service for assistance.',
+    person_withdow_err17: 'Please verify your account before withdrawing funds.',
     person_withdow_err2: 'Please add a bank account before withdrawing money.',
     person_withdow_err3: 'The minimum amount of USD is 10.',
     person_withdow_err4: 'The maximum amount of USD is 1,000,000.',

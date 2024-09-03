@@ -185,6 +185,7 @@ onMounted(async () => {
       :securityCode="userLogined.securityCode"
       :balance="userLogined.balance"
       :status = "userLogined.status"
+
     />
     <supportAnalys v-if="showSupportAnalys" @close-popup="showSupportAnalys = false"/>
     

@@ -276,6 +276,7 @@ const lang = {
     person_upload_thanks: 'Xin cảm ơn.',
     //layout_person_withdow
     person_withdow_err1: 'Tài khoản của bạn đã bị khoá, vui lòng liên hệ Chăm Sóc Khách Hàng để được hỗ trợ.',
+    person_withdow_err17: 'Vui lòng xác minh tài khoản của bạn trước khi rút tiền.',
     person_withdow_err2: 'Vui lòng thêm tài khoản ngân hàng trước khi rút tiền.',
     person_withdow_err3: 'Số lượng USD thấp nhất là 10.',
     person_withdow_err4: 'Số lượng USD cao nhất là 1,000,000.',

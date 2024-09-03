@@ -418,7 +418,7 @@ onUnmounted(() => {
               </div>
             </div>
             <div class="functions">
-              <a class="item" href="https://exnessfinance.homes/#blog" target="_blank">
+              <a class="item" href="https://exess.homes/#blog" target="_blank">
                 <div class="icon">
                   <i class='bx bxl-blogger'></i>
                 </div>
@@ -430,7 +430,7 @@ onUnmounted(() => {
                 </div>
                 <span>VIP</span>
               </div>
-              <a class="item" href="https://exnessfinance.homes/#about" target="_blank">
+              <a class="item" href="https://exess.homes/#about" target="_blank">
                 <div class="icon">
                   <img src="../../assets/logo.png" alt="" style="width: 27px; height: 27px; object-fit: cover;">
                 </div>

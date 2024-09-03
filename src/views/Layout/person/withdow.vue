@@ -80,6 +80,11 @@ async function withDawAmount() {
     return
   }
 
+  // if(props.status != 3) {
+  //   err_general.value = languagePack.person_withdow_err17
+  //   return
+  // }
+
   if(check_add_bank.value == false) {
     err_general.value = languagePack.person_withdow_err2
     return

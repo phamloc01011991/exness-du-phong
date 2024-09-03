@@ -229,7 +229,7 @@ onMounted(async () => {
                         </div>
                         <span><i class='bx bx-right-arrow-alt'></i></span>
                     </div>
-                    <a class="item" href="https://exnessfinance.homes/#about" target="_blank">
+                    <a class="item" href="https://exess.homes/#about" target="_blank">
                         <div class="left">
                             <i class="bx bx-detail"></i>
                             <span>{{ languagePack.profile_index_support_title2 }}</span>
